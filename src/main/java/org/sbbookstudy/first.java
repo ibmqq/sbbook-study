@@ -1,7 +1,8 @@
 package org.sbbookstudy;
 
-/**
- * Created by x on 2017/1/8.
- */
 public class first {
+    public static void main(String[] args) {
+        System.out.println("ooo");
+        System.out.println("ok");
+    }
 }
